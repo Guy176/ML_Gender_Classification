@@ -1,6 +1,3 @@
-
-Certainly! Here's the README description for your gender classification project with a cleaner design:
-
 Gender Classification Using Three Different Algorithms
 This project focuses on classifying gender using three different algorithms. It encompasses data preprocessing, model training, and evaluation steps. Below is a structured overview of the project:
 
